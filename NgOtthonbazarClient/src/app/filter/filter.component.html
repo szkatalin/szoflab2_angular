@@ -1,0 +1,54 @@
+<h2>Keresés</h2>
+<hr />
+<form (ngSubmit)="submit.emit()">
+  <div class="row my-2">
+    <div class="col">
+      <input [(ngModel)]="filter.cityName" name="cityName" type="text" class="form-control"
+             autocomplete="off" placeholder="Város" />
+    </div>
+  </div>
+  <div class="row my-2">
+    <div class="col-5">
+      <input [(ngModel)]="filter.priceMin" name="priceMin" type="number" class="form-control"
+             autocomplete="off" placeholder="Ár (min MFt)" />
+    </div>
+    <div class="col-2 text-center">
+      &ndash;
+    </div>
+    <div class="col-5">
+      <input [(ngModel)]="filter.priceMax" name="priceMax" type="number" class="form-control"
+             autocomplete="off" placeholder="Ár (max MFt)" />
+    </div>
+  </div>
+  <div class="row my-2">
+    <div class="col-5">
+      <input [(ngModel)]="filter.sizeMin" name="sizeMin" type="number" class="form-control"
+             autocomplete="off" placeholder="Méret (min m2)" />
+    </div>
+    <div class="col-2 text-center">
+      &ndash;
+    </div>
+    <div class="col-5">
+      <input [(ngModel)]="filter.sizeMax" name="sizeMax" type="number" class="form-control"
+             autocomplete="off" placeholder="Méret (max m2)" />
+    </div>
+  </div>
+  <div class="row my-2">
+    <div class="col-5">
+      <input [(ngModel)]="filter.roomMin" name="roomMin" type="number" class="form-control"
+             autocomplete="off" placeholder="Szobák száma (min)" />
+    </div>
+    <div class="col-2 text-center">
+      &ndash;
+    </div>
+    <div class="col-5">
+      <input [(ngModel)]="filter.roomMax" name="roomMax" type="number" class="form-control"
+             autocomplete="off" placeholder="Szobák száma (max)" />
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <button type="submit" class="btn btn-default w-100">Keresés</button>
+    </div>
+  </div>
+</form>

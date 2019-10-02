@@ -1,0 +1,14 @@
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\bin\Debug\netcoreapp2.1\NgOtthonbazar.deps.json
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\bin\Debug\netcoreapp2.1\NgOtthonbazar.runtimeconfig.json
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\bin\Debug\netcoreapp2.1\NgOtthonbazar.runtimeconfig.dev.json
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\bin\Debug\netcoreapp2.1\NgOtthonbazar.dll
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\bin\Debug\netcoreapp2.1\NgOtthonbazar.pdb
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.csprojAssemblyReference.cache
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.csproj.CoreCompileInputs.cache
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.RazorAssemblyInfo.cache
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.RazorAssemblyInfo.cs
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.AssemblyInfoInputs.cache
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.AssemblyInfo.cs
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.RazorTargetAssemblyInfo.cache
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.dll
+C:\Users\KatusMatus\Desktop\NgOtthonbazar\obj\Debug\netcoreapp2.1\NgOtthonbazar.pdb
